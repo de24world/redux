@@ -6,11 +6,11 @@ hide_title: true
 
 &nbsp;
 
-# Redux FAQ: General
+# Redux FAQ: 자주 묻는 질문
 
-## When should I learn Redux?
+## 언제 리덕스를 써야할까요?
 
-What to learn can be an overwhelming question for a JavaScript developer. It helps to narrow the range of options by learning one thing at a time and focusing on problems you find in your work. Redux is a pattern for managing application state. If you do not have problems with state management, you might find the benefits of Redux harder to understand. Some UI libraries (like React) have their own state management system. If you are using one of these libraries, especially if you are just learning to use them, we encourage you to learn the capabilities of that built-in system first. It might be all you need to build your application. If your application becomes so complex that you are confused about where state is stored or how state changes, then it is a good time to learn Redux.
+무엇을 배워야 하는가의 질문은 자바스크립트 개발자에게 매우 어려운 질문이 될 수 있습니다. 한 번에 한 가지씩 학습하고 업무에서 발견한 문제에 집중함으로써 선택의 폭을 좁히는 데 도움이 됩니다. 리덕스는 애플리케이션의 상태를 관리하기 위한 패턴입니다. 상태 관리에 문제가 없다면 리덕스의 이점을 이해하기 어려울 수 있습니다. 일부 UI 라이브러리(예:리액트)에는 자체 상태 관리 시스템이 있습니다. 이러한 라이브러리 중 하나를 사용하는 경우, 특히 이러한 라이브러리 사용법을 배우는 경우 먼저 해당 라이브러리에 내장된 기본 시스템을 학습하는 것이 좋습니다. 그것으로 애플리케이션이 필요로 하는 것을 모두 빌드할 수 있습니다. 애플리케이션이 너무 복잡해져서 상태가 어디에 있는지 모르거나 혹은 상태가 어떻게 변경되었는지 헷갈린다면 리덕스를 배우는 것이 좋습니다.
 
 :::tip
 
