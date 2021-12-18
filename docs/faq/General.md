@@ -12,29 +12,29 @@ hide_title: true
 
 무엇을 배워야 하는가의 질문은 자바스크립트 개발자에게 매우 어려운 질문이 될 수 있습니다. 한 번에 한 가지씩 학습하고 업무에서 발견한 문제에 집중함으로써 선택의 폭을 좁히는 데 도움이 됩니다. 리덕스는 애플리케이션의 상태를 관리하기 위한 패턴입니다. 상태 관리에 문제가 없다면 리덕스의 이점을 이해하기 어려울 수 있습니다. 일부 UI 라이브러리(예:리액트)에는 자체 상태 관리 시스템이 있습니다. 이러한 라이브러리 중 하나를 사용하는 경우, 특히 이러한 라이브러리 사용법을 배우는 경우 먼저 해당 라이브러리에 내장된 기본 시스템을 학습하는 것이 좋습니다. 그것으로 애플리케이션이 필요로 하는 것을 모두 빌드할 수 있습니다. 애플리케이션이 너무 복잡해져서 상태가 어디에 있는지 모르거나 혹은 상태가 어떻게 변경되었는지 헷갈린다면 리덕스를 배우는 것이 좋습니다.
 
-:::tip
+:::팁
 
-**We recommend that most new learners should focus on learning React first, and wait to learn Redux until after you're already comfortable with React**. That way, there's fewer new concepts to learn at once, and it's more clear what concepts are part of React and what concepts are part of Redux. You'll also have a better understanding of how using Redux fits into a React app, and why Redux can be useful.
+**대부분의 새로운 학습자들은 먼저 리액트가 익숙해질 때까지 먼저 리액트를 학습하는 것을 권장합니다** 그렇게 하면, 한 번 배울 때 새로운 개념들이 적어지고, 리액트의 개념들과 리덕스의 개념들이 더욱 명확해집니다. 또한 리액트 앱에서 어떻게 알맞게 사용하는지, 그리고 왜 리덕스가 유용한지 보다 잘 이해할 수 있습니다.
 
 :::
 
-#### Further information
+#### 추가 정보
 
-**Articles**
+**읽어볼 것들**
 
-- [Deciding What Not To Learn](https://gedd.ski/post/what-not-to-learn/)
-- [How to learn web frameworks](https://ux.shopify.com/how-to-learn-web-frameworks-9d447cb71e68)
-- [Redux vs MobX vs Flux vs... Do you even need that?](https://goshakkk.name/redux-vs-mobx-vs-flux-etoomanychoices/)
+- [배우지 말아야 할 것 결정하기](https://gedd.ski/post/what-not-to-learn/)
+- [어떻게 웹 프레임워크를 배울 것인가](https://ux.shopify.com/how-to-learn-web-frameworks-9d447cb71e68)
+- [리덕스 vs MobX vs Flux vs... 그게 필요한가?](https://goshakkk.name/redux-vs-mobx-vs-flux-etoomanychoices/)
 
-**Discussions**
+**토론**
 
-- [Ask HN: Overwhelmed with learning front-end, how do I proceed?](https://news.ycombinator.com/item?id=12882816)
-- [Twitter: If you want to teach someone to use an abstraction...](https://twitter.com/acemarke/status/901329101088215044)
-- [Twitter: it was never intended to be learned before...](https://twitter.com/dan_abramov/status/739961787295117312)
-- [Twitter: Learning Redux before React?](https://twitter.com/dan_abramov/status/739962098030137344)
-- [Twitter: The first time I used React, people told me I needed Redux...](https://twitter.com/raquelxmoss/status/901576285020856320)
-- [Twitter: This was my experience with Redux...](https://twitter.com/garetmckinley/status/901500556568645634)
-- [Dev.to: When is it time to use Redux?](https://dev.to/dan_abramov/comment/1n2k)
+- [Ask HN: 벅찬 프론트엔드 학습, 어떻게 진행해야 할까요?](https://news.ycombinator.com/item?id=12882816)
+- [Twitter: 누군가에게 추상화 사용법을 가르치고 싶다면...](https://twitter.com/acemarke/status/901329101088215044)
+- [Twitter: 전에는 배우려고 한적이 없었다...](https://twitter.com/dan_abramov/status/739961787295117312)
+- [Twitter: 리액트 전에 리덕스 배우기?](https://twitter.com/dan_abramov/status/739962098030137344)
+- [Twitter: 내가 리액트를 처음 사용 했을 때 사람들은 내게 리덕스가 필요하다고 말했습니다...](https://twitter.com/raquelxmoss/status/901576285020856320)
+- [Twitter: 이것은 리덕스에 대한 나의 경험이었습니다...](https://twitter.com/garetmckinley/status/901500556568645634)
+- [Dev.to: 언제 리덕스를 사용해야 합니까?](https://dev.to/dan_abramov/comment/1n2k)
 
 ## When should I use Redux?
 
